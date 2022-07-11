@@ -1,4 +1,5 @@
-# k8s_with_terraform
+# Nginx_server_on_k8s_with_terraform  
+
 Copy two files  
 ```
 terraform init
